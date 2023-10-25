@@ -1,0 +1,91 @@
+
+#header{
+    color: rgb(29, 27, 27);
+    border: 2px solid;
+    background-color: rgba(92, 235, 26, 0.699);
+    text-align: center;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+}
+#header1{
+    color: #0917dba1;
+}
+#header5{
+    font-size: 40px;
+    position:relative; left: 425px;
+    color: blue;
+}
+body{
+    background-color: black;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin:30px;
+}
+p{
+    display: inline;
+    font-size: 18px;
+    color: aqua;
+}
+#p1{
+    position:relative; left: 90px;
+}
+#p2{
+    position:relative; left: 290px;
+}
+#p3{
+    position:relative; left: 490px;
+}
+#p4{
+    position:relative; left: 925px;
+}
+#p5{
+    position:relative; left: 715px;
+}
+#p6{
+    position:relative; left: 875px;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+}
+#header6{
+    color: blue;
+    text-decoration: none;
+}
+#re1{
+    height: 500px;
+    width: 500px;
+    margin-left: 70px;
+    display: inline-block;
+}
+#header11{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(157, 209, 14);
+}
+#header000{
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    color: rgb(157, 209, 14);;
+}
+#header00{
+    display: block;
+    position: relative; left: 100px; top: 50px;
+    color: aliceblue;
+}
+#header001{
+    display: block;
+    position: relative; left: 100px;
+    color: aliceblue;
+}
+#aboutus{
+    color: aliceblue;
+    margin: 20px;
+    font-size: 20px;
+}
