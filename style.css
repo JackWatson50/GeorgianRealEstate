@@ -89,3 +89,8 @@ a{
     margin: 20px;
     font-size: 20px;
 }
+.WebContainer{ 
+    width:100%; 
+    min-width:1000px; 
+    height:auto; 
+}
